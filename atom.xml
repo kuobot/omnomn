@@ -4,7 +4,7 @@
   <title><![CDATA[the blog.]]></title>
   <link href="http://kuobot.github.com/omnomn/atom.xml" rel="self"/>
   <link href="http://kuobot.github.com/omnomn/"/>
-  <updated>2012-11-21T00:21:34-08:00</updated>
+  <updated>2012-11-21T00:30:38-08:00</updated>
   <id>http://kuobot.github.com/omnomn/</id>
   <author>
     <name><![CDATA[omnomn]]></name>
@@ -12,5 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Whimsy]]></title>
+    <link href="http://kuobot.github.com/omnomn/blog/2012/11/20/whimsy/"/>
+    <updated>2012-11-20T20:45:00-08:00</updated>
+    <id>http://kuobot.github.com/omnomn/blog/2012/11/20/whimsy</id>
+    <content type="html"><![CDATA[<p>What is the New Web about?</p>
+
+<p>Whimsy, personality, fun. Character.</p>
+
+<p>This is why copyrighting is so important these days.</p>
+
+<p>Gone: Heavy spec writing.
+Instead: Lightweight, standups instead.</p>
+
+<p>Gone: The unknown corporation.
+Instead: The personable touch.</p>
+
+<p>Gone: Ignoring the customer
+Instead: The customer is king.</p>
+
+<p>Gone: Poor user experiences
+Instead: Spotlight on the user experience</p>
+
+<p>Gone: Just build it
+Instead: Figure out what you will build and market and sell it first. Then build it</p>
+
+<p>Gone: Silos of demarcatation
+Instead: Integrated, small design-build teams who can turn on a dime.</p>
+
+<p>Gone: Boring jobs
+Instead: You can have your cake and eat it too</p>
+
+<p>Gone: The corporate zombie
+Instead: The enlightened, self-motivated employee</p>
+
+<p>Gone: Playing by the rules
+Intead: Making the rules. Or in some cases, breaking them first</p>
+
+<p>Gone: Believing you can&#8217;t.
+Instead: Believing you can.</p>
+
+<p>Gone: Traditional models and institutions
+Instead: Forging your own way</p>
+
+<p>Gone: Traditional glass ceilings
+Instead: Fuck you money</p>
+]]></content>
+  </entry>
   
 </feed>
