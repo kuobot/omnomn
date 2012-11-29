@@ -4,7 +4,7 @@
   <title><![CDATA[the blog.]]></title>
   <link href="http://kuobot.github.com/omnomn/atom.xml" rel="self"/>
   <link href="http://kuobot.github.com/omnomn/"/>
-  <updated>2012-11-28T23:39:05-08:00</updated>
+  <updated>2012-11-28T23:47:19-08:00</updated>
   <id>http://kuobot.github.com/omnomn/</id>
   <author>
     <name><![CDATA[omnomn]]></name>
@@ -12,88 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[If Your App Was Human]]></title>
-    <link href="http://kuobot.github.com/omnomn/blog/2012/11/28/if-your-app-was-human/"/>
-    <updated>2012-11-28T19:00:00-08:00</updated>
-    <id>http://kuobot.github.com/omnomn/blog/2012/11/28/if-your-app-was-human</id>
-    <content type="html"><![CDATA[<p>Javascript(?) giving your app personality.</p>
-
-<p>First it was about features. Feature war
-Now it&#8217;s about removing features
-Forget about inventing new experiences. What about cleaning up the existing ones we have to suffer though in our daily lives?</p>
-
-<p>Omnomn helping app. Just built a prototype and the hyperlink made the feeling rather snappy. It was a bit harsh. I wanted to make it smooth and sexy. Or perhaps bouncy and a bit playful.  This is the genius of the likes of Steve Jobs and Walt Disney.  I felt like I was standing on the shoulders of great men.</p>
-
-<p>I was ready to build.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[New Format For Plan]]></title>
-    <link href="http://kuobot.github.com/omnomn/blog/2012/11/28/new-format-for-plan/"/>
-    <updated>2012-11-28T16:46:00-08:00</updated>
-    <id>http://kuobot.github.com/omnomn/blog/2012/11/28/new-format-for-plan</id>
-    <content type="html"><![CDATA[<p>App Connections page should look like: https://www.easel.io/documents/e3801d92405f7955#e3801d92405f7955
-Finished Campaign analytics should look like:
-https://www.easel.io/documents/88b0ddec331fb7c1?#88b0ddec331fb7c1</p>
-
-<p>Issue #1: AM is confused when different stats appear in admin blast data vs. in app
-Issue #2: Customers may be confused by numbers that are displayed w/o an explanation as to what they mean (eg. 2 customer counts).
-Issue #3: Customers want to see campaign result detail (I thought I had this many customers, why does it say only this many got reached?)
-Issue #4: Terminology is all over the place.  Eg. it&#8217;s &#8220;Runs from&#8221; and &#8220;runs to&#8221; in one place but &#8220;Start&#8221; and &#8220;end&#8221; in another.
-Issue #5: Still outstanding is to decide how to treat single email/multiple entries.
-Issue #6: FB fan inclusion into stats
-Issue #7: Terms need to be defined.</p>
-
-<p>Resolution #1: AM should seldom have to go into admin.
-Resolution #2: We make it clear which numbers mean what and add tooltips where necessary
-Resolution #3: Reach is defined as FB+emails+text+bounce
-Resolution #4: Lets go w/ Start and end when referring to campaigns.
-Resolution #5: Waiting on Sailesh.
-Resolution #6: Include Fb fans into stats
-Resolution #7: I defined some terms.</p>
-
-<p>Quick fix changes:</p>
-
-<ol>
-<li>In admin, replace the words &#8220;Aggregate Information&#8221; with &#8220;Stats&#8221; and change that data in admin to reflect same exact data as what is shown to customers
-Emails: 6089.0; Opens: 940.0; Visits: 285.0; Optouts: 23.0; Bounces: 4.0</li>
-<li>In admin, make &#8220;Experiment&#8221; the same size as the other 2 headers.</li>
-<li>In admin, hide Experiments if we are not actively using.</li>
-<li>In admin, replace the words &#8220;Blast Groups&#8221; with &#8220;Sent to Mailgun&#8221;</li>
-</ol>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Make Rules]]></title>
-    <link href="http://kuobot.github.com/omnomn/blog/2012/11/28/make-rules/"/>
-    <updated>2012-11-28T15:28:00-08:00</updated>
-    <id>http://kuobot.github.com/omnomn/blog/2012/11/28/make-rules</id>
-    <content type="html"><![CDATA[<ol>
-<li>Templates.</li>
-<li>New campaign template</li>
-</ol>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Start From The Inside Out]]></title>
-    <link href="http://kuobot.github.com/omnomn/blog/2012/11/28/start-from-the-inside-out/"/>
-    <updated>2012-11-28T13:50:00-08:00</updated>
-    <id>http://kuobot.github.com/omnomn/blog/2012/11/28/start-from-the-inside-out</id>
-    <content type="html"><![CDATA[<p>Strugling w/ the stats</p>
-
-<p>Do not do this: start designing the dash
-do this instead: design lower pages, maybe even sections of a lower page</p>
-
-<p>Stats will globally affect what&#8217;s shown on the dash. Improve the individual pages then you can rearrange after they are done.</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Doing The Startup Thing]]></title>
@@ -113,33 +31,6 @@ do this instead: design lower pages, maybe even sections of a lower page</p>
 <p>What the German novelist, dramatist, poet, humanist, scientist, and philosopher was the fundamental fuel of startups. The spirit of the times ignites within each and every one of us the urge to make some sort of impact upon the world. We live in a modern-day renaissance inciting passion and fervor and sense of urgency which is the most exciting thing about being alive.</p>
 
 <p>Here and now.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[I'm Not Getting Married]]></title>
-    <link href="http://kuobot.github.com/omnomn/blog/2012/11/24/im-not-getting-married/"/>
-    <updated>2012-11-24T19:29:00-08:00</updated>
-    <id>http://kuobot.github.com/omnomn/blog/2012/11/24/im-not-getting-married</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[It's All One Big Giant Experiment]]></title>
-    <link href="http://kuobot.github.com/omnomn/blog/2012/11/24/its-all-one-big-giant-experiment/"/>
-    <updated>2012-11-24T19:27:00-08:00</updated>
-    <id>http://kuobot.github.com/omnomn/blog/2012/11/24/its-all-one-big-giant-experiment</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[It's A Branding Exercise]]></title>
-    <link href="http://kuobot.github.com/omnomn/blog/2012/11/24/its-a-branding-exercise/"/>
-    <updated>2012-11-24T19:27:00-08:00</updated>
-    <id>http://kuobot.github.com/omnomn/blog/2012/11/24/its-a-branding-exercise</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
