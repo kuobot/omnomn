@@ -4,7 +4,7 @@
   <title><![CDATA[the blog.]]></title>
   <link href="http://kuobot.github.com/omnomn/atom.xml" rel="self"/>
   <link href="http://kuobot.github.com/omnomn/"/>
-  <updated>2012-11-28T23:47:19-08:00</updated>
+  <updated>2012-12-01T09:52:23-08:00</updated>
   <id>http://kuobot.github.com/omnomn/</id>
   <author>
     <name><![CDATA[omnomn]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Design From The Inside Out]]></title>
+    <link href="http://kuobot.github.com/omnomn/blog/2012/12/01/design-from-the-inside-out/"/>
+    <updated>2012-12-01T09:34:00-08:00</updated>
+    <id>http://kuobot.github.com/omnomn/blog/2012/12/01/design-from-the-inside-out</id>
+    <content type="html"><![CDATA[<p>This was the first time I&#8217;d mentioned it. I preferred to start simple and then add complexity as needed.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Holiday Tree]]></title>
+    <link href="http://kuobot.github.com/omnomn/blog/2012/11/30/holiday-tree/"/>
+    <updated>2012-11-30T11:01:00-08:00</updated>
+    <id>http://kuobot.github.com/omnomn/blog/2012/11/30/holiday-tree</id>
+    <content type="html"><![CDATA[<p>Executive decisions have to be made.  It was becoming increasingly apparent to me that unless I put Christmas tree into the weekly sprint it would never get done.</p>
+
+<p>Attempt #1: Kyle and Andrew went with me to get it but the place we wanted to get it from didn&#8217;t have stands. And to get a stand would exceed our allocated bandwidth. So we went back empty-handed.</p>
+
+<p>Attempt #2: Ronald and Keri and I went to Target to get a stand. We found ourselves staring at an empty shelf. They were out of stands. Foiled yet again.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Leveling Up]]></title>
+    <link href="http://kuobot.github.com/omnomn/blog/2012/11/30/leveling-up/"/>
+    <updated>2012-11-30T10:59:00-08:00</updated>
+    <id>http://kuobot.github.com/omnomn/blog/2012/11/30/leveling-up</id>
+    <content type="html"><![CDATA[<p>General mktg (D)
+Prod mktg (D,J)
+PR tricks (J)
+Product design (J, SM)
+Engg build (J,B,K)
+Data (K, SR)</p>
+
+<p>Light fire under ass
+How can we do better
+Mood is +</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Doing The Startup Thing]]></title>
